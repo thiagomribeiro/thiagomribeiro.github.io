@@ -1,0 +1,5 @@
+theme: minima
+title: Kubernetes na Prática
+description: Documentação introdutória e prática sobre Kubernetes
+markdown: kramdown
+
