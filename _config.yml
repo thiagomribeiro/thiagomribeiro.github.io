@@ -1,5 +1,5 @@
-theme: minima
+theme: jekyll-theme-minimal
 title: Kubernetes na Prática
 description: Documentação introdutória e prática sobre Kubernetes
 markdown: kramdown
-
+baseurl: "/kubernetes-book"
