@@ -1,3 +1,8 @@
+---
+layout: default
+title: Início
+---
+
 # ☸️ Introdução ao Kubernetes
 
 ## 📌 O que é o Kubernetes?
